@@ -1,1 +1,1 @@
-2026 agent paper !
+持续更新近年（今年为主）arxiv上比较好的Agent架构（RAG框架、长短时记忆组件、multi-agent架构、RAG评估架构等）。
